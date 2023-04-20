@@ -195,7 +195,8 @@ df5
 DATA CSV
 
 INITIAL DATASET:
-![image](https://user-images.githubusercontent.com/119390134/233386011-e8a58582-e59f-41e4-84a5-310b66b57481.png)
+![image](https://user-images.githubusercontent.com/119390134/233389012-69c70093-9763-4f55-85d7-44a914c99038.png)
+
  BINARY ENCODING:
  ![image](https://user-images.githubusercontent.com/119390134/233386114-771292e4-1e05-446d-8d07-640c806cb5ac.png)
 
